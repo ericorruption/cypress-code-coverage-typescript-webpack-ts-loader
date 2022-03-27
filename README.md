@@ -35,7 +35,3 @@ I wanted to demonstrate how to achieve the same setup without relying on Babel.
 
 On the command line, type and run `npm test`.
 You should then see the coverage report in the terminal afterwards.
-
-## Roadmap
-
-- Confirm that more than one spec file increases coverage

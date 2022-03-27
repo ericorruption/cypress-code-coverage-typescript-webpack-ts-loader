@@ -8,7 +8,7 @@ export const Button: FunctionComponent = () => {
   }
 
   return (
-    <button onClick={() => setClicked(true)}>
+    <button id="button-1" onClick={() => setClicked(true)}>
       {clicked ? "clicked" : "not clicked"}
     </button>
   );
