@@ -8,7 +8,8 @@
     "build": "webpack",
     "pretest": "rm -rf coverage && rm -rf .nyc_output && npm run build",
     "test": "concurrently --kill-others \"http-server dist\" \"cypress run\"",
-    "posttest": "nyc report --reporter=text"
+    "posttest": "nyc report --reporter=text",
+    "start": "http-server dist"
   },
   "keywords": [],
   "author": "",
