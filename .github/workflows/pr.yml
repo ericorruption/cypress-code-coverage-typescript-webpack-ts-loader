@@ -9,8 +9,4 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version-file: "package.json"
-      - run: npm ci
-      - run: npm test # pretest already builds
+      - uses: cypress-io/github-action@v5.4.0
