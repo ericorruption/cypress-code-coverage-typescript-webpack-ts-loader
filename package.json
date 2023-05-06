@@ -24,7 +24,7 @@
     "@cypress/code-coverage": "^3.10.4",
     "@jsdevtools/coverage-istanbul-loader": "^3.0.5",
     "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.1",
+    "@types/react-dom": "^18.2.4",
     "concurrently": "^8.0.1",
     "html-webpack-plugin": "^5.5.1",
     "http-server": "^14.1.1",
