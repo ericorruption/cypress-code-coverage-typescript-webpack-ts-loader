@@ -16,4 +16,11 @@ updates:
       day: "saturday"
       time: "23:00"
     groups:
-      patterns: "*"
+      deps:
+        dependency-type: "production"
+        patterns:
+          - "*"
+      deps-dev:
+        dependency-type: "development"
+        patterns:
+          - "*"
