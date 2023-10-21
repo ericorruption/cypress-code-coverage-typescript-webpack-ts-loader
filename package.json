@@ -21,11 +21,11 @@
     "typescript": "^5.2.2"
   },
   "devDependencies": {
-    "@cypress/code-coverage": "^3.12.3",
+    "@cypress/code-coverage": "^3.12.4",
     "@jsdevtools/coverage-istanbul-loader": "^3.0.5",
-    "@types/react": "^18.2.28",
-    "@types/react-dom": "^18.2.13",
-    "concurrently": "^8.2.1",
+    "@types/react": "^18.2.31",
+    "@types/react-dom": "^18.2.14",
+    "concurrently": "^8.2.2",
     "html-webpack-plugin": "^5.5.3",
     "http-server": "^14.1.1",
     "ts-loader": "^9.5.0",
