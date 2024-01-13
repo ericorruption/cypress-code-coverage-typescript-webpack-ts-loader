@@ -21,7 +21,7 @@
     "typescript": "^5.3.3"
   },
   "devDependencies": {
-    "@cypress/code-coverage": "^3.12.17",
+    "@cypress/code-coverage": "^3.12.18",
     "@jsdevtools/coverage-istanbul-loader": "^3.0.5",
     "@types/react": "^18.2.47",
     "@types/react-dom": "^18.2.18",
