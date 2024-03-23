@@ -21,15 +21,15 @@
     "typescript": "^5.4.3"
   },
   "devDependencies": {
-    "@cypress/code-coverage": "^3.12.29",
+    "@cypress/code-coverage": "^3.12.30",
     "@jsdevtools/coverage-istanbul-loader": "^3.0.5",
-    "@types/react": "^18.2.66",
+    "@types/react": "^18.2.69",
     "@types/react-dom": "^18.2.22",
     "concurrently": "^8.2.2",
     "html-webpack-plugin": "^5.6.0",
     "http-server": "^14.1.1",
     "ts-loader": "^9.5.1",
-    "webpack": "^5.90.3",
+    "webpack": "^5.91.0",
     "webpack-cli": "^5.1.4"
   },
   "volta": {
