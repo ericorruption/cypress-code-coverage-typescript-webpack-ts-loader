@@ -15,16 +15,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^13.8.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "cypress": "^13.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "typescript": "^5.4.5"
   },
   "devDependencies": {
     "@cypress/code-coverage": "^3.12.35",
     "@jsdevtools/coverage-istanbul-loader": "^3.0.5",
-    "@types/react": "^18.2.79",
-    "@types/react-dom": "^18.2.25",
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.0",
     "concurrently": "^8.2.2",
     "html-webpack-plugin": "^5.6.0",
     "http-server": "^14.1.1",
