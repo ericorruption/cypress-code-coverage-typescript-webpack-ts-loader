@@ -23,10 +23,10 @@
   "devDependencies": {
     "@cypress/code-coverage": "^3.13.4",
     "@jsdevtools/coverage-istanbul-loader": "^3.0.5",
-    "@types/react": "^18.3.11",
+    "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "concurrently": "^9.0.1",
-    "html-webpack-plugin": "^5.6.2",
+    "html-webpack-plugin": "^5.6.3",
     "http-server": "^14.1.1",
     "ts-loader": "^9.5.1",
     "webpack": "^5.95.0",
