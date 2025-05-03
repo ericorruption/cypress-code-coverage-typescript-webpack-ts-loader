@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
-      - uses: cypress-io/github-action@v6.7.16
+      - uses: cypress-io/github-action@v6.9.0
         with:
           build: npm run build
           start: npm start
